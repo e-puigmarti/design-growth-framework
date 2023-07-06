@@ -401,6 +401,183 @@
       level: "5",
       description: "Citizenship L5\n\nYou represent Figma externally whether through conferences, blog posts, or other channels.\n\nYour work and presence attracts top talent to the organization; some people join Figma because they're excited to learn from you."
     }
+    // NEW CULTURE SKILLS
+    {
+      skill: "Be relentless",
+      level: "1",
+      description: "."
+    },
+    {
+      skill: "Be relentless",
+      level: "2",
+      description: "."
+    },
+    {
+      skill: "Be relentless",
+      level: "3",
+      description: "."
+    },
+    {
+      skill: "Be relentless",
+      level: "4",
+      description: "."
+    },
+    {
+      skill: "Be relentless",
+      level: "5",
+      description: "."
+    },
+    {
+      skill: "Ego",
+      level: "1",
+      description: "."
+    },
+    {
+      skill: "Ego",
+      level: "2",
+      description: "."
+    },
+    {
+      skill: "Ego",
+      level: "3",
+      description: "."
+    },
+    {
+      skill: "Ego",
+      level: "4",
+      description: "."
+    },
+    {
+      skill: "Ego",
+      level: "5",
+      description: "."
+    },
+    {
+      skill: "Growth mindset",
+      level: "1",
+      description: "."
+    },
+    {
+      skill: "Growth mindset",
+      level: "2",
+      description: "."
+    },
+    {
+      skill: "Growth mindset",
+      level: "3",
+      description: "."
+    },
+    {
+      skill: "Growth mindset",
+      level: "4",
+      description: "."
+    },
+    {
+      skill: "Growth mindset",
+      level: "5",
+      description: "."
+    },
+    {
+      skill: "Honest and direct",
+      level: "1",
+      description: "."
+    },
+    {
+      skill: "Honest and direct",
+      level: "2",
+      description: "."
+    },
+    {
+      skill: "Honest and direct",
+      level: "3",
+      description: "."
+    },
+    {
+      skill: "Honest and direct",
+      level: "4",
+      description: "."
+    },
+    {
+      skill: "Honest and direct",
+      level: "5",
+      description: "."
+    },
+    {
+      skill: "Leverage systems",
+      level: "1",
+      description: "."
+    },
+    {
+      skill: "Leverage systems",
+      level: "2",
+      description: "."
+    },
+    {
+      skill: "Leverage systems",
+      level: "3",
+      description: "."
+    },
+    {
+      skill: "Leverage systems",
+      level: "4",
+      description: "."
+    },
+    {
+      skill: "Leverage systems",
+      level: "5",
+      description: "."
+    },
+    {
+      skill: "Execution over perfection",
+      level: "1",
+      description: "."
+    },
+    {
+      skill: "Execution over perfection",
+      level: "2",
+      description: "."
+    },
+    {
+      skill: "Execution over perfection",
+      level: "3",
+      description: "."
+    },
+    {
+      skill: "Execution over perfection",
+      level: "4",
+      description: "."
+    },
+    {
+      skill: "Execution over perfection",
+      level: "5",
+      description: "."
+    },
+    {
+      skill: "First principles",
+      level: "1",
+      description: "."
+    },
+    {
+      skill: "First principles",
+      level: "2",
+      description: "."
+    },
+    {
+      skill: "First principles",
+      level: "3",
+      description: "."
+    },
+    {
+      skill: "First principles",
+      level: "4",
+      description: "."
+    },
+    {
+      skill: "First principles",
+      level: "5",
+      description: "."
+    },
+
   ];
 
   // code.tsx
@@ -444,6 +621,12 @@
     color: "#FFCD29",
     skills: ["Effectiveness", "Leadership", "Citizenship"],
     skillDescriptions: ["Output, follow-through, and business impact", "Mentorship, ability to influence and drive change", "Improving our culture, hiring, and company practices"]
+  };
+  var cultureCategory = {
+    name: "Culture",
+    color: "#F24921",
+    skills: ["Be relentless", "Ego", "Growth mindset", "Honest and direct", "Leverage systems", "Execution over perfection", "First principles" ],
+    skillDescriptions: ["We do everything with the end result in mind", "At Inflow, the team comes first", "There is no finish line", "We tell it like it is, in good faith", "We strive to build systems for everything", "We measure success in real, tangible results"]
   };
   var categories = [strategyCategory, craftCategory, writingCraftCategory, collabCategory, impactCategory];
   function Widget() {

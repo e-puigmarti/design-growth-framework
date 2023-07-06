@@ -239,4 +239,167 @@ export const levelDescriptions = [
         level: '5',
         description: ''
     }
+    { skill: 'Be relentless',
+        level: '1',
+        description: ''
+    },
+    { skill: 'Be relentless',
+        level: '2',
+        description: ''
+    },
+    { skill: 'Be relentless',
+        level: '3',
+        description: ''
+    },
+    { skill: 'Be relentless ',
+        level: '4',
+        description: ''
+    },
+    { skill: 'Be relentless',
+        level: '5',
+        description: ''
+    }
+    { skill: 'Ego',
+        level: '1',
+        description: ''
+    },
+    { skill: 'Ego',
+        level: '2',
+        description: ''
+    },
+    { skill: 'Ego',
+        level: '3',
+        description: ''
+    },
+    { skill: 'Ego',
+        level: '4',
+        description: ''
+    },
+    { skill: 'Ego',
+        level: '5',
+        description: ''
+    }
+    { skill: 'Growth mindset',
+        level: '1',
+        description: ''
+    },
+    { skill: 'Growth mindset',
+        level: '2',
+        description: ''
+    },
+    { skill: 'Growth mindset',
+        level: '3',
+        description: ''
+    },
+    { skill: 'Growth mindset',
+        level: '4',
+        description: ''
+    },
+    { skill: 'Growth mindset',
+        level: '5',
+        description: ''
+    }
+     { skill: 'Growth mindset',
+        level: '1',
+        description: ''
+    },
+    { skill: 'Growth mindset',
+        level: '2',
+        description: ''
+    },
+    { skill: 'Growth mindset',
+        level: '3',
+        description: ''
+    },
+    { skill: 'Growth mindset',
+        level: '4',
+        description: ''
+    },
+    { skill: 'Growth mindset',
+        level: '5',
+        description: ''
+    } 
+    { skill: 'Honest and direct',
+        level: '1',
+        description: ''
+    },
+    { skill: 'Honest and direct',
+        level: '2',
+        description: ''
+    },
+    { skill: 'Honest and direct',
+        level: '3',
+        description: ''
+    },
+    { skill: 'Honest and direct',
+        level: '4',
+        description: ''
+    },
+    { skill: 'Honest and direct',
+        level: '5',
+        description: ''
+    }
+    { skill: 'Leverage systems',
+        level: '1',
+        description: ''
+    },
+    { skill: 'Leverage systems',
+        level: '2',
+        description: ''
+    },
+    { skill: 'Leverage systems',
+        level: '3',
+        description: ''
+    },
+    { skill: 'Leverage systems',
+        level: '4',
+        description: ''
+    },
+    { skill: 'Leverage systems',
+        level: '5',
+        description: ''
+    }
+    { skill: 'Execution over perfection',
+        level: '1',
+        description: ''
+    },
+    { skill: 'Execution over perfection',
+        level: '2',
+        description: ''
+    },
+    { skill: 'Execution over perfection',
+        level: '3',
+        description: ''
+    },
+    { skill: 'Execution over perfection',
+        level: '4',
+        description: ''
+    },
+    { skill: 'Execution over perfection',
+        level: '5',
+        description: ''
+    }
+    { skill: 'First principles',
+        level: '1',
+        description: ''
+    },
+    { skill: 'First principles',
+        level: '2',
+        description: ''
+    },
+    { skill: 'First principles',
+        level: '3',
+        description: ''
+    },
+    { skill: 'First principles',
+        level: '4',
+        description: ''
+    },
+    { skill: 'First principles',
+        level: '5',
+        description: ''
+    }
+    
+
+
 ];

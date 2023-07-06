@@ -49,8 +49,14 @@ const impactCategory = {
   skills: ["Effectiveness", "Leadership", "Citizenship"],
   skillDescriptions: ["Output, follow-through, and business impact", "Mentorship, ability to influence and drive change", "Improving our culture, hiring, and company practices"],
 };
+const cultureCategory = {
+  name: "Culture",
+  color: "#F24921",
+  skills: ["Be relentless", "Ego", "Growth mindset", "Honest and direct", "Leverage systems", "Execution over perfection", "First principles" ],
+  skillDescriptions: ["We do everything with the end result in mind", "At Inflow, the team comes first", "There is no finish line", "We tell it like it is, in good faith", "We strive to build systems for everything", "We measure success in real, tangible results"],
+};
 
-const categories = [strategyCategory, craftCategory, writingCraftCategory, collabCategory, impactCategory];
+const categories = [strategyCategory, craftCategory, writingCraftCategory, collabCategory, impactCategory, cultureCategory];
 
 function Widget() {
   const voteMap = useSyncedMap<number>("skill-level")
